@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QkUYQmCyHuSBno8r7eT+0M7ZdeKkRbJSW0nsMOfBhEtEd1uR5f2H22Fuzqvvz1fn0KHi/H6paZFHwpj0jJNCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehme\\source\\repos\\ApiExamples\\ApiExamples\\ApiExamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehme\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
