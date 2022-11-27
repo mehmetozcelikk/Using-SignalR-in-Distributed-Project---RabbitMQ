@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJvnOhGYr8yYdb5FKSkJ0Iw3OtpRUn3TDjID+OpXpAM4oX2LxUzrTDzo39mzIPWFvqqkSC02asdJn50oKNmiGQ==",
+  "dgSpecHash": "3u4fAnrNTyedhXEYTyabBEdEyQ5vPt8jgBve9g4SZfCCRnhGzpb4rrPYJtDom9MPFHWbKfgdhEw7w4oPjlbVnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mehme\\source\\repos\\ApiExamples\\EmailSenderExample\\EmailSenderExample.csproj",
+  "projectFilePath": "C:\\Users\\mehme\\Source\\Repos\\Using-SignalR-in-Distributed-Project---RabbitMQdenemee\\EmailSenderExample\\EmailSenderExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehme\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.4\\microsoft.aspnetcore.connections.abstractions.6.0.4.nupkg.sha512",
     "C:\\Users\\mehme\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\6.0.4\\microsoft.aspnetcore.http.connections.client.6.0.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehme\\source\\repos\\ApiExamples\\EmailSenderExample\\EmailSenderExample.csproj": {}
+    "C:\\Users\\mehme\\Source\\Repos\\Using-SignalR-in-Distributed-Project---RabbitMQdenemee\\EmailSenderExample\\EmailSenderExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehme\\source\\repos\\ApiExamples\\EmailSenderExample\\EmailSenderExample.csproj": {
+    "C:\\Users\\mehme\\Source\\Repos\\Using-SignalR-in-Distributed-Project---RabbitMQdenemee\\EmailSenderExample\\EmailSenderExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehme\\source\\repos\\ApiExamples\\EmailSenderExample\\EmailSenderExample.csproj",
+        "projectUniqueName": "C:\\Users\\mehme\\Source\\Repos\\Using-SignalR-in-Distributed-Project---RabbitMQdenemee\\EmailSenderExample\\EmailSenderExample.csproj",
         "projectName": "EmailSenderExample",
-        "projectPath": "C:\\Users\\mehme\\source\\repos\\ApiExamples\\EmailSenderExample\\EmailSenderExample.csproj",
+        "projectPath": "C:\\Users\\mehme\\Source\\Repos\\Using-SignalR-in-Distributed-Project---RabbitMQdenemee\\EmailSenderExample\\EmailSenderExample.csproj",
         "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehme\\source\\repos\\ApiExamples\\EmailSenderExample\\obj\\",
+        "outputPath": "C:\\Users\\mehme\\Source\\Repos\\Using-SignalR-in-Distributed-Project---RabbitMQdenemee\\EmailSenderExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
